@@ -1,0 +1,12 @@
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\119\202304283417\1234\1234.DTO\bin\Debug\net7.0\1234.DTO.deps.json
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\119\202304283417\1234\1234.DTO\bin\Debug\net7.0\1234.DTO.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\119\202304283417\1234\1234.DTO\bin\Debug\net7.0\1234.DTO.pdb
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\119\202304283417\1234\1234.DTO\obj\Debug\net7.0\1234.DTO.csproj.AssemblyReference.cache
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\119\202304283417\1234\1234.DTO\obj\Debug\net7.0\1234.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\119\202304283417\1234\1234.DTO\obj\Debug\net7.0\1234.DTO.AssemblyInfoInputs.cache
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\119\202304283417\1234\1234.DTO\obj\Debug\net7.0\1234.DTO.AssemblyInfo.cs
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\119\202304283417\1234\1234.DTO\obj\Debug\net7.0\1234.DTO.csproj.CoreCompileInputs.cache
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\119\202304283417\1234\1234.DTO\obj\Debug\net7.0\1234.DTO.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\119\202304283417\1234\1234.DTO\obj\Debug\net7.0\refint\1234.DTO.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\119\202304283417\1234\1234.DTO\obj\Debug\net7.0\1234.DTO.pdb
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\119\202304283417\1234\1234.DTO\obj\Debug\net7.0\ref\1234.DTO.dll
